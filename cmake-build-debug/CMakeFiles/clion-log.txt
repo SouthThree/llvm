@@ -1,0 +1,41 @@
+/opt/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/nansan/Documents/llvm-3.7
+CMake Deprecation Warning at CMakeLists.txt:20 (cmake_policy):
+  The OLD behavior for policy CMP0051 will be removed from a future version
+  of CMake.
+
+  The cmake-policies(7) manual explains that the OLD behaviors of all
+  policies are deprecated and that a policy should be set to OLD only under
+  specific short-term circumstances.  Projects should be ported to the NEW
+  behavior and not rely on setting a policy to OLD.
+
+
+-- Target triple: x86_64-unknown-linux-gnu
+-- Native target architecture is X86
+-- Threads enabled.
+-- Doxygen disabled.
+-- Sphinx disabled.
+-- Go bindings disabled.
+-- Could NOT find OCaml (missing: OCAMLFIND OCAML_VERSION OCAML_STDLIB_PATH) 
+-- Could NOT find OCaml (missing: OCAMLFIND OCAML_VERSION OCAML_STDLIB_PATH) 
+-- OCaml bindings disabled.
+-- Building with -fPIC
+-- Constructing LLVMBuild project information
+-- Targeting AArch64
+-- Targeting AMDGPU
+-- Targeting ARM
+-- Targeting BPF
+-- Targeting CppBackend
+-- Targeting Hexagon
+-- Targeting Mips
+-- Targeting MSP430
+-- Targeting NVPTX
+-- Targeting PowerPC
+-- Targeting Sparc
+-- Targeting SystemZ
+-- Targeting X86
+-- Targeting XCore
+-- Could NOT find LibXml2 (missing: LIBXML2_LIBRARY LIBXML2_INCLUDE_DIR) 
+-- Clang version: 3.7.0
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nansan/Documents/llvm-3.7/cmake-build-debug
