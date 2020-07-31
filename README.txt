@@ -15,3 +15,5 @@ documentation setup.
 
 If you're writing a package for LLVM, see docs/Packaging.rst for our
 suggestions.
+
+LLVM 3.7.0 with some extra passes.
